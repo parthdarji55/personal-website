@@ -27,7 +27,7 @@ const Education = ({ user }) => {
         </ul>
       </div>
     </Layout>
-  );
+  ); 
 };
 
 export default Education;

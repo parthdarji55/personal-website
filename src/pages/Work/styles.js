@@ -15,3 +15,4 @@ export const JobTitle = styled.p`
   font-weight: bold;
   display: inline-block;
 `
+ 

@@ -21,3 +21,4 @@ export const Pill = styled.span`
   border-radius: 2px;
   font-weight: bold;
 `;
+ 

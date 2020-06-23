@@ -18,7 +18,7 @@ const Me = ({ user }) => {
           ))}
         </div>
       </div>
-      <div>
+      <div> 
         <SectionTitle>Profiles</SectionTitle>
         <ul>
           {user.basics.profiles.map((profile, i) => (

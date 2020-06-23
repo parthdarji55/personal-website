@@ -25,7 +25,7 @@ const Work = ({ user }) => {
         </ul>
       </div>
     </Layout>
-  );
+  ); 
 };
 
 export default Work;

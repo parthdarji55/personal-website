@@ -22,7 +22,7 @@ const Projects = ({ user }) => {
           ))}
         </ul>
       </div>
-    </Layout>
+    </Layout> 
   );
 };
 

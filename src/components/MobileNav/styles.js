@@ -12,7 +12,7 @@ export const Container = styled.div`
 
 export const Spacer = styled.div`
   height: 48px;
-`;
+`; 
 
 export const NavWrapper = styled.div`
   display: flex;

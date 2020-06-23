@@ -27,3 +27,4 @@ const Pages = ({ user }) => {
 };
 
 export default Pages;
+ 

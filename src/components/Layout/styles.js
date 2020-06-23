@@ -8,3 +8,4 @@ export const StyledContent = styled(Content)`
     margin-left: 0 !important;
   }
 `
+ 
